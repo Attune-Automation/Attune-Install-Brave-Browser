@@ -1,7 +1,9 @@
 {
+    "actionOnStepFail": null, 
     "archiveKey": "bravebrowserinstallerforwindows", 
     "deployPath": "/c$/software/", 
     "enabled": true, 
+    "externalUuid4": "d64f4ba6-dbe5-4d67-a09b-873ee8b78dda", 
     "key": "pushinstallerforbravebrowseronwindows", 
     "name": "Push Installer for Brave Browser on Windows", 
     "osCredKey": "windowsuseradministrator", 

@@ -1,6 +1,8 @@
 {
+    "actionOnStepFail": null, 
     "concurrency": 1, 
     "enabled": true, 
+    "externalUuid4": "9b25dbd0-1c94-4de0-b8b3-131f74a64e4f", 
     "isBlueprint": true, 
     "key": "installbravebrowseronwindowsoffline", 
     "links": [
